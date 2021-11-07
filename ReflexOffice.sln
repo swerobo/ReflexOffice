@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflexOffice.ApplicationSupport", "ReflexOffice.ApplicationSupport\ReflexOffice.ApplicationSupport.csproj", "{79EFBE1B-3F1C-4644-A729-82C3ED9FF0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflexOffice.WinForm", "ReflexOffice.WinForm\ReflexOffice.WinForm.csproj", "{317BD4D4-610C-4AA8-B06A-B6E6FEFBBBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EFBE1B-3F1C-4644-A729-82C3ED9FF0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EFBE1B-3F1C-4644-A729-82C3ED9FF0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EFBE1B-3F1C-4644-A729-82C3ED9FF0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EFBE1B-3F1C-4644-A729-82C3ED9FF0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317BD4D4-610C-4AA8-B06A-B6E6FEFBBBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317BD4D4-610C-4AA8-B06A-B6E6FEFBBBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317BD4D4-610C-4AA8-B06A-B6E6FEFBBBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317BD4D4-610C-4AA8-B06A-B6E6FEFBBBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3243A9BE-46A7-4DEC-A40E-E83170B68105}
+	EndGlobalSection
+EndGlobal
